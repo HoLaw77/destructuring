@@ -4,10 +4,10 @@
  */
 
 // Destructuring arrays
-let ages = [30, 26, 27];
-let John = ages[0];
-let Mary = ages[1];
-let Peter = ages[2];
+//let ages = [30, 26, 27];
+//let John = ages[0];
+//let Mary = ages[1];
+//let Peter = ages[2];
 console.log(John, Mary, Peter);
 // Destructuring objects
 
